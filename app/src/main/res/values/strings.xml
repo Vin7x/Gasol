@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Gasol</string>
+    <string name="main_title">Para calcular a média em quilômetros por litro, basta dividir os quilômetros percorridos pela quantidade de litros que a bomba marcou ao abastecer. Insira a km inicial(Logo após abastecer),
+        e a km final(assim que entrar na reserva), em seguida insira os litros abastecidos.
+    </string>
+    <string name="avg_consumption">Consumo médio</string>
+    <string name="travelled_distance">Distância percorrida em KM</string>
+    <string name="txt_liters">Quantidade de combustível utilizada em Litros</string>
+    <string name="consumo_medio">Consumo médio</string>
+    <string name="hint_distancia">Distância percorrida em KM...</string>
+    <string name="hint_liters">Litros</string>
+    <string name="btn_calc">Calcular</string>
+    <string name="alert_calc">O veículo está fazendo...</string>
+    <string name="km_inicial">KM inicial</string>
+    <string name="km_final">KM final</string>
+    <string name="calculando">Calculando...</string>
+</resources>
